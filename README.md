@@ -1,5 +1,5 @@
 To run this project, do follow these steps:
-1. Download and install Postman from here.
+1. Download and install Postman.
 2. Open Postman and create a new POST request.
 3. Set the request URL to http://127.0.0.1:8000/generate-qr-code/.
 4. Go to the "Body" tab and select the "x-www-form-urlencoded" option.
